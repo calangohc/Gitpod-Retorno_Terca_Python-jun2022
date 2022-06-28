@@ -1,2 +1,2 @@
 # Gitpod-Python-Debug
-Python Debugging in Gitpod
+Calang, Retorno da Terça do Python com Gitpod
